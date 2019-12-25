@@ -20,10 +20,8 @@ end
 
 def modulo(num1, num2)
   remainder = num1 % num2
-  return remainder
 end
 
 def square_root(num)
   sqrt = Math.sqrt(num)
-  return sqrt
 end
